@@ -231,4 +231,5 @@ Asking the AI to generate a huge number of items or examples at once, which can 
 <img width="869" height="192" alt="Screenshot 2025-09-29 165051" src="https://github.com/user-attachments/assets/ba103a9d-7dce-4ea9-b956-42cb4235c503" />
 
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+# Result:
+The various types of Prompts are executed successfully with generated the report.
